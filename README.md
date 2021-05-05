@@ -1,2 +1,2 @@
-# Pokedex-
-Pokedex crée a partir de node.js
+# Pokedex
+Pokedex crée a partir de node.js.
